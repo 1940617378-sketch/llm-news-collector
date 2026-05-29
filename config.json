@@ -1,0 +1,18 @@
+{
+  "rss_feeds": [
+    "https://hnrss.org/newest?q=LLM",
+    "https://hnrss.org/newest?q=large+language+model",
+    "https://arxiv.org/rss/cs.CL",
+    "https://www.marktechpost.com/feed/",
+    "https://the-decoder.com/feed/"
+  ],
+  "keywords": [
+    "LLM", "large language model", "GPT", "Claude", "Gemini",
+    "Llama", "Mistral", "DeepSeek", "Qwen", "RAG",
+    "fine-tuning", "agent", "reasoning model", "transformer",
+    "OpenAI", "Anthropic", "alignment", "benchmark", "context window"
+  ],
+  "telegram_bot_token": "",
+  "telegram_chat_id": "",
+  "max_articles_per_day": 20
+}
